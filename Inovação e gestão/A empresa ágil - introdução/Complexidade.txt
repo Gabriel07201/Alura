@@ -1,0 +1,24 @@
+Como medir a complexidade?
+
+Medir a informações
+    O quão perecível é sua informação?
+        Se for duradoura - Não precisa
+        Se for de curto prazo - Precisa
+
+Fazer uma análise se trabalha
+    Problemas intelectivos - Não precisa
+        Tem uma reposta certa - Única forma de resolver essa situação
+    Problemas subjetivos - Precisa
+        Existem várias repostas - É necessário investir em experimentos, para ver o que dá certo
+
+## Dentro da sua área, identifique o quão perecível são as informações no seu contexto. Para isso, pense e identifique 3 processos existentes no seu setor e principalmente, processos que integrem a sua área com as demais.
+
+Uma vez mapeados esses processos, identifique se ele é um processo Intelectivo (com um único jeito de fazer da forma certa) ou Subjetivo (existem várias formas corretas de realizar esse processo e você só consegue saber se a forma usada foi a certa depois de realizar).
+
+Tempo de produção - Pouco perecível, se mantém em um padrão sempre
+Custo de costura - Médio, muda mas não com uma frequência tão grande
+Custo tecido - Muito perecível, muda todo mês, ou até mesmo com mais frequência
+
+Fechamento de terceiros - Intelectivo (verificar, pagar)
+Impostos - Subjetivo  (existem várias maneiras com que pode ser pago menos ou mais impostos, depende da maneira que é feita, mas todas elas são conhecidas)
+Nota fiscal - Intelectivos (segue sempre um padrão, por mais que as vezes tenha diferenças)

@@ -1,0 +1,20 @@
+O gestor geralmente tem uma visão geral de muita coisa, mas isso faz com que os detalhes, as informações acabem sendo limitadas
+Já o funcionário tem uma visão mais limitada, porém ele é rico em detalhes
+
+Uma maneira de delegar é seguindo 7 conceitos
+    Ordem
+        Comunicar a decisão do que foi feito - 0 delegação
+    Venda
+        Comunica a decisão, mas faz um esclarecimento
+    Consulta
+        Chama as pessoas e pergunta qual a melhor decisão a ser tomada, mas a decisão ainda é do líder
+    Consenso
+        Junta todos e a decisão é tomada em conjunto
+    Conselho
+        Emprega o poder da decisão para as pessoas, mas o líder ajuda em um direcionamento
+    Informação
+        Passa as informações e só espera que as pessoas comuniquem a decisão
+    Delegação completa
+        As pessoas fazem da maneira que quiserem e nem precisam comunicar, as decisões e consequências são da responsabilidade total delas
+
+

@@ -1,0 +1,16 @@
+Estrutura hierarquica
+    Não é muito adequada para a metodologia ágil, que deve ser usada em ambiente instáveis
+        Fica lenta demais e burocratica demais
+
+Estrutura Funcional
+    Organizada por departamentos - Possuem uma liderença que se comunica com outros departamentos
+
+Estrutura Matricial
+    Dividido em dupla gerências - Uma cuida de partes mais técnicas e a outra fica mais próxima as pessoas colaboradoas
+
+Estrutura em rede
+    Departamento central que conversa com unidades independentes
+
+Estrutura por projetos
+    Tudo depende da quantidade de projetos que a empresa está trabalhando
+

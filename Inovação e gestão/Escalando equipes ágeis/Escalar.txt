@@ -1,0 +1,44 @@
+Organização de backlogs para escalar
+    Único gestor de requisitos pra vários times;
+    Porções do backlog dividido por áreas. Onde cada Product Owner é responsável pela sua parte e decisões são colegiadas;
+    Uma pessoa que centraliza a gestão do produto, mas com backlogs quebrados em pequenas áreas com seus respectivos Product Owners, mas a decisão é do gestor principal de produtos.
+
+
+Gestão da tecnologia
+    As melhores arquiteturas, requisitos e designs emergem de equipes auto organizáveis
+    Integração contínua
+        Reuniões para passar o que está sendo feito
+    Testes
+    Métricas de qualidade
+    Deployment
+        Projeto dividido em pequenas partes, e quando essa parte é desenvolvida é passa para a fase de aprovação para o deploy
+
+
+Frameworks
+    1 P.O / 1 backlog
+        Uma pessoa que será responsável por mais de uma equipe
+        Problemas com gestão de dependência
+        Less
+            As pessoas vão conversar entre si para ir desenvolvendo
+        Nexus
+            É necessário uma reunião para que possa ser feito o desenvolvimento 
+    + 1 P.O / + 1 backlog
+        Mais parecida com a estratégia SAFE
+
+
+Gestão de portfólio
+    A visão da organização é o ponto de partida para qualquer portfólio
+    Operacional
+        Projetos que já existem na empresa, renda previsível
+    Tático
+        Novos produtos com base em já existentes
+    Estratégico
+        Novas oportunidades
+
+
+Desafios
+    Sincronização de time
+        Uma das maneiras de lidar com isso é distribuir uma pessoa em reuniões dos outros times
+    Sprint review
+        Uma das maneiras é fazer uma feira, assim os usuários veem somente as funções que interessam eles
+    Resistência

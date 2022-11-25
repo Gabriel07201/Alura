@@ -1,0 +1,74 @@
+Na equipe ágil ela precisa ser multidicisplinar
+
+5 disfunções que pode existir dentro de um time
+    Falta de confiança
+    Medo de conflito
+    Falta de compromisso
+    Fuga de responsabilidade
+    Desatenção aos resultados
+
+
+Auto organização
+    Precisa de um objetivo compartilhado
+    Algumas restrições são precisas, um tempo limite por exemplo
+    A solução não pode já estar delimitada na hora de passar para a equipe
+
+
+Tipos de equipes ágeis
+    Funcionalidades
+    Componente
+        Funcionam muito bem para fazer otimizações locais
+        Geralmente afetam mais de uma área ou funcionalidade
+    Jornada do cliente
+        Foco em grupos de clientes
+
+
+Scrum team
+    Eficácia
+        Fazer o produto certo, garantir que está corrigindo um problema que realmente existe
+        Surge o product owner
+    Qualidade
+        Fazer da maneira correta
+        É a equipe de desenvolvimento
+    Eficiência
+        Fazer no tempo correto
+        Surge o scrum master
+
+
+Product owner
+    Precisa focar no produto e não no projeto
+    Maximizar o valor de negócio
+    Pensa em 3 níveis
+        Operacional
+            Atividades do dia a dia, reuniões, feedbacks e outras coisas
+        Tático
+            Priorização do backlog, algumas coisas acabam sendo mais importantes que outras
+        Estratégico
+            Visão do produto, objetivo que o produto tem
+    Atua em 3 tempos
+        Passado
+            Feedback e relatório
+        Presente
+            Dúvidas e reuniões
+        Futuro
+            Refinamento e priorização
+
+
+Dev team
+    Não pode ser uma equipe muito grande
+        De 3 à 9 pessoas
+    Sem títulos
+    Levar à ideia até o fim
+    Perfil T das pessoas
+        Pessoas com bastantes conhecimentos gerais, mas com algum ponto muito forte
+
+
+Scrum master
+    Líder servidor
+    Coach
+        Faz boas perguntas, para levar as pessoas na própria solução
+    Professor
+    Expert em scrum
+    Remove impedimentos
+    Social Skills
+    Agente de mudança

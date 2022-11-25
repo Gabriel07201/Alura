@@ -1,0 +1,42 @@
+Basicamente é desburocratizar alguns processos para que os feedbacks aconteçam de maneira mais rápida e a empresa possa mudar de maneira mais ágil, assim sofrendo menos traumas.
+Ele surgiu quando os negócios começaram a ter algumas demandas e elas não estavam sendo supridas totalmente, pois os produtos que eram desenvolvidos muitas vezes acabava trazendo coisas não tão úteis ao mesmo tempo que não supria todas as necessidades do modelo de negócio.
+
+Agilidade é diferente de rapidez
+    Agilidade é a capacidade de responder novas informações
+
+Cada vez mais o mundo está ficando mais complexo
+    Dificulta planejar planos de de longo  prazo  claros devido a complexidade de saber as possíveis mudanças
+    Cynefin
+        Um framework que ajuda a medir em qual nível de complexidade a empresa está
+            Complexo - Usa business agility
+                Depende do contexto
+            Complicado - Usa business agility(contexto ideal)
+                Analisar para responder
+            Caótico - Não usa business agility
+                Instável, sem repostas certas e nada muito claro
+            Óbvio - Não usa business agility
+            Desordem
+                não se tem compreensão assertiva do contexto, problema e da(s) possível(is) solução(ões)
+
+O mercado mudar rapidamente...é bom ou ruim para o seu negócio?
+    Essa pergunta deve ser feita para pensar se o business agility faz sentido em seu negócio
+
+
+## Rascunhe o business agility:
+
+Pense no contexto da empresa onde você trabalha. Desenhe mentalmente ou em uma folha de papel ou um documento de texto pelo menos 5 áreas existentes dentro dessa organização. Comece a ligar essas áreas através de setas direcionais que identificam como essas áreas se relacionam, como por exemplo:
+
+Vendas --- precisa contratar ---> Recursos Humanos
+
+Nesse caso, a área de vendas depende da área de recursos humanos quando ela precisa contratar uma nova pessoa. Tente pensar em pelo menos 5 interações entre as áreas.
+
+Agora com essas áreas e suas interações mapeadas, pense se esse processo que integra essas áreas (por exemplo, o processo de contratação de vendedores) é burocrático ou não e quando você encontrar um processo burocrático, pense em como poderia agilizar esse processo, sem perder os controles necessários, mas eliminando burocracias desnecessárias.
+
+O objetivo de Business Agility é justamente remover essas barreiras burocráticas existentes entre as áreas, fazendo com que a organização se torne mais ágil.
+
+Meu exemplo:
+Financeiro --- impostos ---> Contabilidade
+Fincaneiro --- pagamento de terceiros ---> Produção
+Produção --- produzir peças, precisa de insumos e mão de obra ---> Compras e RH
+RH --- contratar novos funcionários ---> Financeiro
+Compras --- comprar insumos ---> Financeiro
