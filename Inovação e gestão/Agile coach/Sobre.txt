@@ -1,0 +1,70 @@
+O Scrum master é mais voltado para a equipe
+
+Já o Agile coach é mais voltado para a organização
+    Também sabe mais de outros frameworks ágeis e não somente com o scrum
+    Facilitar remoção de barreiras
+
+Agile coach
+    "Médico"
+        Resolver o problema
+    Catalizar melhorias
+    Promover percepção de resultados
+    Criar senso de propriedade para as pessoas
+    Desenvolver competências
+    Facilitar remoção de barreiras
+
+# Recomendação de livro: Agile coach DNA - Manoel Pimentel
+
+Agile mindset
+
+C = f(S) 
+    # C = comportamento 
+    # S = situação
+C = f(P, A) 
+    # P = pessoas 
+    # A = ambiente
+
+
+Relacionamento com a empresa
+    Precisa ter liberdade
+        Para que ele faça o papel de "polinizador"
+        Para que também possa testar as ideias
+        Coletar feedbacks
+    Precisa estar com as expectativas alinhadas
+    Precisa definir um prazo
+
+
+Remoção de barreiras
+    Transparência
+        Que ele consiga mostrar o problema e que também as pessoas e a empresa mostre o problema
+    Foca no MVI, minimal value improvement
+    Coleta de feedback para encontrar a maior barreira
+        Após isso pensa em como remover
+
+
+Aprendizagem contínua
+    Coaching
+        Fazer com que as pessoas encontrem o melhor caminho
+        Power questions
+    Mentoring
+        Transmitir o conhecimento
+    Facilitação
+        Fazer estruturação par que as pessoas cheguem aos objetivos de maneira mais rápida
+        Learning canvas é um modo de ajudar a facilitar
+        Inspeção
+            Fazer com que as pessoas possam verificar como está sendo feito
+        Adptação
+            Após inspeção fazer pequenas mudanças e novamente a inspeção, assim é a melhoria contínua
+        Modelo GROW - umas das formas de fazer aprendizagem contínua
+            G = GOAL
+            R = REALITY
+            O = OPTIONS
+            W = WILL
+
+
+
+# Recomendação de livros:
+Coaching Agile Teams (Lyssa Adkins)
+Agile Product Management with Scrum (Roman Pichler)
+Management 3.0: Leading Agile Developers, Developing Agile Leaders (Jurgen Appelo)
+Coaching for Performance: Growing Human Potential and Purpose (John Whitmore)
