@@ -1,0 +1,10 @@
+Técnica para facilitar estimativas com números
+    A sequencia de fibonacci é usada para pensar nessas estimativas
+        Planning poker é uma maneira de utilizar essa técnica
+            As pessoas pegam o user story e dão uma nota para cada parte, e após isso é revelado e as estimativas começam a ser feitas
+            As estimativas começam a ser feitas usando o fibonacci e seus intervalos
+    Método de Monte Carlo
+        Uma maneira de se estimar o máximo e o mínimo de determinada situação
+            Máximo - Quando tudo pode não sair da melhor maneira
+            Mínimo - Quando as coisas são rápidas e saem da melhor maneira
+        

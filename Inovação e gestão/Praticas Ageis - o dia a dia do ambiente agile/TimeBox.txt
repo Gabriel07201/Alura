@@ -1,0 +1,7 @@
+Limitar o tempo de uma determinada atividade
+    Não está ligado à prazo e sim ao tempo que se leva para chegar a um objetivo
+    Ajuda na prática do PDCA
+        Plan
+        Do
+        Check
+        Act

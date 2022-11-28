@@ -1,0 +1,58 @@
+É preciso fazer medidas para que se possa tomar decisões
+
+Quando vamos fazer algo isso terá um custo é preciso medir o retorno, as chances de dar certo o custo
+E com isso podemos ver qual decisão tomar
+
+A medida sempre tem um intervalo e um grau de certeza(segurança)
+
+
+Métricas técnicas
+    É importante que o próprio time seja responsável por definir essas métricas
+    Controle de número de bugs
+    Número de usuários
+    Tempo que o servidor fica no ar
+    Número médio de linhas por função
+
+
+Métricas de negócio
+    Diretamente ligadas à eficácia dos produtos que criamos
+    Vendas
+    Faturamento
+    Ticket médio
+    Churn
+    Satisfação do cliente
+
+
+Métricas do time/organização
+    Rotatividade de funcionários
+    Hapiness index
+    Squad healt check
+        Algumas perguntas para entender determinadas situações - poucas perguntas
+    As pessoas precisam estar motivadas para o squad funcionar
+        Maestria
+        Autonomia
+        Propósito
+    É importante a empresa ter
+        Missão
+        Visão
+        Valor
+
+
+Métricas do processo/worflow
+    Estão associadas a velocidade/eficiência com que se entrega as coisas
+    Cycle time
+        De quanto em quanto tempo é produzido algo
+    Lead time
+        Tempo que determinada coisa leva para sair do início de um processo até o final
+        Monitora uma atividade específica, diferente do cycle time, que vê o geral
+    Tempo de espera
+        Quanto tempo a pessoa não pode trabalhar pois estava esperando algo
+
+
+3 critérios para uma boa métrica
+    Acionável
+        Precisa ter uma causa, efeito e precisa ter ações para se tomar com isso
+    Acessível
+        Visível e compreensível
+    Auditável
+        Precisa ser confiável, os dados precisam ser bons e conferíveis

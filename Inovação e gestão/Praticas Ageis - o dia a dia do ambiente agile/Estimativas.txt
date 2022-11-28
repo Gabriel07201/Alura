@@ -1,0 +1,11 @@
+Uma estimativa só é importante se ela afetar alguma decisão que deve ser tomada.
+Para facilitar na hora de estimar, podemos utilizar a comparação de dois valores, ou mais.
+Se a decisão já está tomada, não existe porque fazer estimativas.
+O melhor jeito de fazer estimativas é pensar em intervalos. É muito difícil acertar se os valores e respostas forem precisos.
+Um outro componente da estimativa é o nível de confiança, ele diz sobre a certeza de acerto da estimativa.
+Quanto maior o intervalo, maior a confiança que a estimativa tem, pela sua margem de confiança.
+
+Tamanho
+    Esforço
+    Complexidade
+    Incerteza

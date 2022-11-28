@@ -1,0 +1,14 @@
+5 atividades a serem feitas nos níveis - repetir sempre
+    Visualizar a situação
+    Criar foco
+    Estabelecer interações ágeis
+    Medir o progresso
+    Operacionalizar e melhorar
+
+3 níveis
+    Nível 1 - Operacional
+        É o mais detalhado
+    Nível 2 - Coordenação(End-2-End)
+        Agrega os níveis operacionais de diferentes times
+    Nível 3 - Estratégico
+        Geralmente faz uso de roadmaps e não vê os detalhes do time e sim o nível de Coordenação
