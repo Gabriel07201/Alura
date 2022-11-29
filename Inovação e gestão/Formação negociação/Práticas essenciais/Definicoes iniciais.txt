@@ -1,0 +1,51 @@
+É o uso da informação e do poder
+Visa influenciar
+É um processo de comunicação bilateral
+Decisão conjunta
+É uma forma de resolução de conflitos
+
+Objetivo: Toda negociação visa satisfazer necessidades
+
+Aplicações
+    Gestão de projetos
+    Contratos
+    Negócios comerciais
+    Assuntos pessoais
+
+
+Tipos de negociação
+    Integrativa
+        As partes cooperam entre si para obter o máximo possível de benefícios, alinhando os interesses em acordos
+    Distributiva
+        Informação como recurso de troca. É para ver quem irá ficar com os maiores benefícios, um lado ganha a custa do outro
+    
+
+Características e estilo do negociador
+    Paciente
+        Precisa ter calma, para entender e passar confiança no cenário em que está
+    Persistência
+    Habilidade de escutar
+    Capacidade de decisão
+    Habilidades de comunicação
+    Habilidades de planejamento
+    Domínio do produto que está negociando
+
+
+Cenário do projeto
+    Empresa Spartacus - líder de mercado
+    Central de atendimento que irá atender o cidadão
+        Irá emcaminhar para o setor de despacho que irá mandar o veículo para ocorrência
+    O problema deles é não saber o estado do veículo
+    Nós iremos desenvolver o aplicativo que irá resolver isso
+
+    Escopo:
+        Desenvolver app mobile(Android)
+        Custo para desenvolver de $ 30.000,00
+        Seu diretor anunciou-o por $ 75.000,00
+        Spartacus tem outro orçamento de $ 60.000,00
+    
+# Minha visão
+Nós temos mais informações do que a empresa, sabemos o custo, temos uma base do outro orçamento que a empresa tem, sabemos o seu problema e que ela realmente tem interesse
+Nosso diretor colocou um valor, o que pode dificultar nossa tomada de decisão
+O melhor a se fazer aqui é a distribuição integrativa, atender as necessidades da empresa ao mesmo tempo que atendemos a nossa expectativa de lucro
+Por ela ser uma empresa grande e ter vários orçamentos o comportamento é mais distributia
