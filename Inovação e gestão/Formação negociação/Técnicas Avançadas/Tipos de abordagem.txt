@@ -1,0 +1,13 @@
+Conflito
+Método linear de Harvard
+    Pode ser visto em um gráfico que mede o interesse
+    No eixo x temos os nossos interesses
+    No eixo y temos os interesses da outra parte
+    Situações
+        x alto e y baixo = forte opositor - adversário
+        x baixo e y alto = aceita tudo - cede
+        x baixo e y baixo = evita - finge que não existe
+        x alto e y alto = ganhos mútuos
+    Posição - demandas e exigências declaradas
+        Com isso os interesses são ditos - motivação, medo, necessidades, desejos e preocupações
+    
